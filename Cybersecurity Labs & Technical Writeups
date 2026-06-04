@@ -1,67 +1,50 @@
-# Hands-On Penetration Testing Experience
+📚 Writeups & Machine Reports
 
-As part of my cybersecurity training and self-study journey, I have completed a variety of practical labs and challenge environments across Hack The Box, TryHackMe, and investigative Sherlock scenarios. These labs provided hands-on experience in penetration testing methodologies, reconnaissance, enumeration, vulnerability assessment, privilege escalation, web application security, and post-exploitation techniques.
+This page contains structured writeups of penetration testing machines, CTF challenges, and cybersecurity labs completed as part of my hands-on training.
 
-Throughout these exercises, I worked with both Linux and Windows environments, applying real-world penetration testing approaches and developing a structured methodology for identifying and analyzing security weaknesses.
-here you can visit my writeups:
+Each writeup includes methodology, attack path, findings, and key learning outcomes documented in PDF format.
+
+🔗 Full Repository of Reports
+
+👉 All writeups can be accessed here:
+HTB & TryHackMe Writeups Collection
 https://app.notion.com/p/HTB-TryHackMe-Writeups-2db9b89be08880c7927fe1c72b85571b?source=copy_link
 
-## Featured Labs
+🧠 Hack The Box Machines
+🔹 FriendZone
 
-### FriendZone
+🔹 Lame
 
-Performed reconnaissance, service enumeration, web application analysis, and privilege escalation techniques in a controlled environment.
+🔹 Beep
 
-### TeamWork (Sherlock)
+🔹 Nineveh
 
-Conducted investigative analysis, evidence collection, and incident response-style research to identify attacker activity and reconstruct events.
+🔹 Active
 
-### Lame
+🔹 Access
 
-Practiced vulnerability identification, exploitation validation, and system enumeration techniques within a vulnerable Linux environment.
+🔹 Attacking GoldenEye
 
-### Beep
+🔹 Attacking Blogger
 
-Explored common security weaknesses in network services and web applications while applying enumeration and exploitation methodologies.
+🔹 Attacking DC4
 
-### Nineveh
+🕵️ Sherlock / Investigation Labs
+🔹 TeamWork
 
-Performed in-depth web application testing, service analysis, and privilege escalation techniques to gain a deeper understanding of attack chains.
+🔹 SalineBreeze
 
-### Active
+⚙️ Structure of Each Report
 
-Worked with Active Directory concepts, domain enumeration, and privilege analysis in a Windows enterprise environment.
+Each report includes:
 
-### Access
+Initial reconnaissance
+Enumeration methodology
+Exploitation steps
+Privilege escalation (if applicable)
+Key vulnerabilities identified
+Tools used (Burp Suite, Nmap, etc.)
+Lessons learned
+📌 Note
 
-Focused on Windows security assessments, credential discovery, and post-exploitation concepts.
-
-### SalineBreeze (Sherlock)
-
-Applied threat investigation techniques, log analysis, and attacker methodology research in a forensic-style scenario.
-
-### Attacking GoldenEye
-
-Conducted web application and infrastructure assessments while identifying security weaknesses and attack vectors.
-
-### Attacking Blogger
-
-Performed web application security testing, reconnaissance, and vulnerability validation techniques.
-
-### Attacking DC4
-
-Practiced penetration testing methodology from initial enumeration through privilege escalation and system compromise analysis.
-
-## Skills Developed
-
-* Web Application Penetration Testing
-* Burp Suite-Based Security Testing
-* OWASP Top 10 Vulnerability Analysis
-* Reconnaissance & Enumeration
-* Linux & Windows Security Assessments
-* Active Directory Fundamentals
-* Privilege Escalation Methodologies
-* Security Research & Investigation
-* Technical Documentation & Reporting
-
-These labs strengthened my practical understanding of penetration testing methodologies and helped develop a structured approach to security testing, vulnerability validation, and technical reporting.
+All labs were performed in controlled environments (HTB, TryHackMe, PortSwigger Academy) for educational purposes only.
